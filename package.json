@@ -1,0 +1,17 @@
+{
+  "name": "stremio-cache-cleaner",
+  "version": "1.0.0",
+  "description": "Clear Stremio Desktop Cache",
+  "main": "cleaner.js",
+  "scripts": {
+    "build": "pkg cleaner.js --out-path bin"
+  },
+  "author": "Sleeyax",
+  "license": "",
+  "dependencies": {
+    "rimraf": "^2.6.3"
+  },
+  "devDependencies": {
+    "pkg": "^4.4.0"
+  }
+}
