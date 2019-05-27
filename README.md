@@ -1,4 +1,4 @@
-The purpose of this script is to refresh the addons catalog without having to reinstall Stremio.
+The purpose of this script is to refresh the addons collection & discovery page without having to reinstall Stremio.
 
 ## Usage
 First of all make sure you have NodeJS (https://nodejs.org/) installed on your computer. 
