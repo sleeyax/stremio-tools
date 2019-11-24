@@ -1,6 +1,6 @@
-The purpose of this script is to refresh the addons collection & discovery page without having to reinstall Stremio.
+# stremio-tools
+A collection of tools for Stremio.
 
-## Usage
-First of all make sure you have NodeJS (https://nodejs.org/) installed on your computer. 
-Then clone or download this repo and run `node cleaner.js`. That's it! <br>
-Alternatively, you can download the cleaner as a [standalone binary](https://github.com/sleeyax/stremio-cache-cleaner/releases).
+## List
+* [Clear recently watched](clear-recently-watched)
+* [Clear client cache files](client-cache-cleaner)
